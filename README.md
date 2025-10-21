@@ -8,8 +8,8 @@ Akkurat nå fokuserer jeg på **SQL**, **JavaScript**, **HTML** og **CSS**.
 ---
 
 ## 🎓 Utdanning
-**Høyskolen Kristiania** — Bachelor i Informasjonsteknologi – Cybersikkerhet  
-*2025–2028 (pågående)*
+**Høyskolen Kristiania**  
+Bachelor i Informasjonsteknologi – Cybersikkerhet (2025–2028, pågående)
 
 ---
 
