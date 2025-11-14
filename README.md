@@ -15,5 +15,6 @@ Bachelor i Informasjonsteknologi – Cybersikkerhet (2025–2028, pågående)
 
 ## 🛠 Teknologi
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,vscode" height="30" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql" height="30" />
+  <img src="https://skillicons.dev/icons?i=vscode, idea" height="30" />
 </p>
